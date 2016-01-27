@@ -21,7 +21,7 @@
     -webkit-box-shadow: none !important;
     box-shadow: none !important;
     background: #eee !important;
-    color: #4e4e4e;
+    color: #303030;
     font-weight: 700;
     font-size: 15px;
     border: 1px solid #eeeeee;
@@ -32,7 +32,7 @@
 }
 
 .center-button-disabled {
-    background: #848180 !important;
+    background: #303030 !important;
     color: #eeeeee;
     padding: 30px 5px;
     font-size: 30px;
@@ -48,11 +48,6 @@
 }
 
 .info-col {
-    padding: 23px;
-    background-color: #eee;
-    margin-left: 15px;
-    width: 7%;
-    text-align: center;
-    margin-top: 17px;
-
+    padding: 5px;
+    background-color: cornsilk;
 }
